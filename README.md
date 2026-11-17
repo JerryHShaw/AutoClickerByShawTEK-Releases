@@ -1,5 +1,11 @@
 # AutoClicker by ShawTEK — Downloads
 
+> [!WARNING]
+> **Pre-release — not for general use.** AutoClicker by ShawTEK is still in testing and has not been
+> released to the public. The builds here are test versions: they may change or be removed without
+> notice, they are not yet code-signed (so Windows SmartScreen may warn about them), and no support is
+> offered. Please don't share or redistribute them.
+
 This repository hosts the installers and update files for **AutoClicker by ShawTEK**, a Windows auto clicker
 that records your clicks, drags and typing and replays them, with schedules.
 

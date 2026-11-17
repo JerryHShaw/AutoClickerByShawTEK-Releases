@@ -23,4 +23,9 @@ Each release contains:
 
 Requires Windows 10 or later and the .NET Framework 4.8.
 
+## Support development
+
+Enjoying AutoClicker? You can support its development with a donation:
+**[Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=HN3S8ZRWNXLRW)**
+
 © ShawTEK

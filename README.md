@@ -23,6 +23,11 @@ Each release contains:
 
 Requires Windows 10 or later and the .NET Framework 4.8.
 
+## Privacy
+
+AutoClicker has no accounts, ads, analytics or telemetry, and your recordings never leave your PC.
+The only internet use is checking this repository for updates. See the [Privacy Notice](PRIVACY.md).
+
 ## Support development
 
 Enjoying AutoClicker? You can support its development with a donation:
